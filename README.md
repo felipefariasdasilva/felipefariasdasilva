@@ -1,10 +1,17 @@
 ### Hello World! How you doing? 👋
 
-My name is Felipe Farias from Brazil. I've been work as full stack engineer since 2018.
+My name is Felipe Farias from Brazil :brazil:
 
-I always loved technology and to start my carreer I resolved study Computer Engineer at UNIFEI. 
+I've been work as a software engineer since 2018. 
 
-Since my graduate I don't stop study and my actual development stack is: Java and SpringBoot, Docker, Jenkins and GCP.
+I always loved technology and, to start my career I resolved study Computer Engineer at UNIFEI. 
+
+Since my graduation, I don't stop study and my actual development stack is 
+- Java (SpringBoot), 
+- Docker, 
+- Jenkins, 
+- React, 
+- GCP.
 
 
 <!--
