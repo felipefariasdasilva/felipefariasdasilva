@@ -4,15 +4,18 @@ My name is Felipe Farias from Brazil :brazil:
 
 I've been work as a software engineer since 2018. 
 
-I always loved technology and, to start my career I resolved study Computer Engineer at UNIFEI. 
+I always loved technology and, to start my career I resolved study Computer Engineering at UNIFEI. 
 
-Since my graduation, I don't stop study and my actual development stack is 
-- Java (SpringBoot), 
-- Docker, 
-- Jenkins, 
-- React, 
-- GCP.
+Since my graduation I don't stop study and my actual development stack is 
+- Java (SpringBoot)
+- Docker
+- Jenkins
+- React 
+- GCP
 
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefariasdasilva)](https://www.linkedin.com/in/felipefariasdasilva)
 
 <!--
 **felipefariasdasilva/felipefariasdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
