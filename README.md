@@ -8,6 +8,8 @@ I always loved technology and, to start my career I resolved study Computer Engi
 
 Since my graduation I don't stop study and my actual development stack is 
 - Java (SpringBoot)
+- Kotlin (SpringBoot)
+- Python 
 - Docker
 - Jenkins
 - React 
