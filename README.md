@@ -1,21 +1,27 @@
-### Hello World! How you doing? 👋
+# Who am I?👋
 
-My name is Felipe Farias from Brazil :brazil:
+Hello folks! How you doing? I am Felipe Farias, brazilian and computer engineer by UNIFEI
 
-I've been work as a software engineer since 2018. 
+Passionate about technology, mainly programming, I came walking in microservices which I study daily, implementing them in the best possible way, using concepts like Clean Code, SOLID, Clean Architecture, Kafka messaging, automating CI / CD pipelines with Jenkins, and making deliveries in Docker containers at cloud providers like GCP.
 
-I always loved technology and, to start my career I resolved study Computer Engineering at UNIFEI. 
+## Study Stack
 
-Since my graduation I don't stop study and my actual development stack is 
-- Java (SpringBoot)
-- Kotlin (SpringBoot)
-- Python 
-- Docker
-- Jenkins
-- React 
-- GCP
+### Backend
+* Java
+* Kotlin
+* Spring Framework
 
-Would you like to find me?
+### Fronted
+* HTML
+* CSS
+* Javascript
+* React Framework
+
+## Devops
+* Jenkins
+* Google Cloud Provider
+
+## Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefariasdasilva)](https://www.linkedin.com/in/felipefariasdasilva)
 
