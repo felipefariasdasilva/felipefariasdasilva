@@ -1,5 +1,7 @@
 # Who am I?👋
 
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipefariasdasilva&show_icons=true)](https://github.com/felipefariasdasilva)
+
 Hello folks! How are you doing? I am Felipe Farias, Brazilian and computer engineer by UNIFEI
 
 Passionate about technology, mainly programming, I came walking in microservices which I study daily, implementing them in the best possible way, using concepts like Clean Code, SOLID, Clean Architecture, Kafka messaging, automating CI / CD pipelines with Jenkins, and making deliveries in Docker containers at cloud providers like GCP.
@@ -20,6 +22,8 @@ Passionate about technology, mainly programming, I came walking in microservices
 ## Devops
 * Jenkins
 * Google Cloud Provider
+
+<br/>
 
 ## Would you like to find me?
 
