@@ -12,6 +12,7 @@ Passionate about technology, mainly programming, I came walking in microservices
 * Java
 * Kotlin
 * Spring Framework
+* Kafka
 
 ### Fronted
 * HTML
