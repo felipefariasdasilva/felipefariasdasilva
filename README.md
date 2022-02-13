@@ -4,7 +4,7 @@
 
 Hello folks! How are you doing? I am Felipe Farias, Brazilian and computer engineer by Federal University of Itajubá - UNIFEI
 
-Passionate about technology, mainly programming, I came walking in microservices which I study daily, implementing them in the best possible way, using concepts like Clean Code, SOLID, Clean Architecture, Kafka messaging, automating CI/CD pipelines with Jenkins, and making deliveries in Docker containers at cloud providers like GCP.
+Passionate about technology, mainly programming, I came walking in microservices which I study daily and implementing them in the best possible way, using concepts like Clean Code, SOLID, Clean Architecture and the following strategies Kafka messaging, automating CI/CD pipelines with Jenkins, and making deliveries in Docker containers with k8s at cloud providers like GCP or AWS.
 
 ## Stack
 
@@ -19,10 +19,12 @@ Passionate about technology, mainly programming, I came walking in microservices
 * CSS
 * Javascript
 * React Framework
+* Vue
 
 ## Devops
 * Jenkins
 * Google Cloud Provider
+* AWS
 
 <br/>
 
